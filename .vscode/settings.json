@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "random": "cpp",
+        "cstdlib": "cpp",
+        "iosfwd": "cpp"
+    },
+    "cmake.debugConfig": {
+        "args": [
+            "test.hy",
+        ]
+    }
+}
